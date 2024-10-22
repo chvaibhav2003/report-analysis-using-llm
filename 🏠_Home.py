@@ -43,22 +43,16 @@ elif page == "About Me":
     # Add information about the developer
     st.write("### Developer Profile")
     st.write("""
-    **Name**: Your Name  
-    **Role**: Developer & AI Enthusiast  
+    **Name**: vaibhav chaudhary  
+    **Role**: ML & AI Enthusiast  
     **Skills**:  
     - Machine Learning  
     - Natural Language Processing  
-    - Full-Stack Development  
-    - Cloud Computing  
+    - Large Language Models
 
     **About Me**:  
-    I'm a passionate developer with experience in AI and machine learning. This project is aimed at simplifying the process of understanding medical reports using cutting-edge language models and AI technology.  
+    I'm a passionate engineering student  with experience in AI and machine learning. This project is aimed at simplifying the process of understanding medical reports using cutting-edge language models and AI technology.  
     """)
     
-    # Add any other information like social media links, GitHub, or portfolio
-    st.write("### Find me on:")
-    st.markdown("""
-    - [GitHub](https://github.com/your-username)  
-    - [LinkedIn](https://linkedin.com/in/your-profile)  
-    """)
-
+    
+    
